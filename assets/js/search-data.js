@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "member of my lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -358,9 +358,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/diagrams/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-telecom-sudparis-moi-et-mon-camarade-hai-anh-le",
         
-          title: "a distill-style blog post",
+          title: "Telecom SudParis, Moi, et mon camarade Hai-Anh LE",
         
         description: "an example of a distill-style blog post and main elements",
         section: "Posts",
