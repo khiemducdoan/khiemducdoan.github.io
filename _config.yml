@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: khiem # the website title (if blank, full name will be used instead)
 first_name: Khiem
 middle_name: Duc 
 last_name: Doan
@@ -86,8 +86,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Beyond curiosity # blog_name will be displayed in your blog page
+blog_description: my thoughts on science, technology and everything in between # blog_description will be displayed in your blog page
+blog_intro: > # blog_intro will be displayed on the front page of your blog, above the list of blog posts
+  Welcome to my blog! Here, I share my thoughts on science, technology and everything in between. I hope you find something interesting to read and learn.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -115,7 +117,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: DucKhiem # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
