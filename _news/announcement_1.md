@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am admitted to M2 PhysEnBio ENS Paris Saclay next year.
