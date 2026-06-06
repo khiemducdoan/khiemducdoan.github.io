@@ -127,6 +127,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/tabs/";
           
         },
+      },{id: "post-testing-somehting",
+        
+          title: "testing somehting",
+        
+        description: "this is what included typograms code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/testing/";
+          
+        },
       },{id: "post-a-post-with-typograms",
         
           title: "a post with typograms",
