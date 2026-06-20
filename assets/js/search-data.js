@@ -430,18 +430,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-admitted-to-m2-physenbio-ens-paris-saclay-next-year",
-          title: 'I am admitted to M2 PhysEnBio ENS Paris Saclay next year.',
+            },},{id: "news-i-have-been-admitted-to-the-m2-physenbio-program-at-ens-paris-saclay-for-the-upcoming-academic-year",
+          title: 'I have been admitted to the M2 PhysEnBio program at ENS Paris-Saclay for...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-oral-presentation-accepted-at-cibb-2026",
+          title: 'Oral Presentation Accepted at CIBB 2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
