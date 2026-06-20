@@ -1,33 +1,16 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Oral Presentation Accepted at CIBB 2026
+date: 2026-04-22
 inline: false
 related_posts: false
+tags: [cibb2026, drug-response-prediction, graph-neural-networks, oral-presentation]
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I am thrilled to announce that our short paper **"Dual-view Atomic and Fragment Graph Representation Learning for Drug Response Prediction"** has been accepted for an **ORAL PRESENTATION** at [CIBB 2026](https://cibb2026.teralab.ai/) (the 21st International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics), held at Sapienza University of Rome, Italy, from September 2–4, 2026.
 
----
+Out of a record number of submissions this year, we are honored that our work was selected among the few contributions chosen for oral presentation. The paper proposes **DAF-DRP**, a dual-view GNN framework that jointly models molecules through both atomic-level and fragment-level graph representations, integrated with gene expression profiles via multiple fusion strategies. Our experiments on CCLE and gCSI datasets demonstrate consistent improvements over established baselines including GraphDRP, DeepCDR, HiDRA, and UNO.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+We received encouraging feedback from the reviewers, particularly noting that *"the proposed approach presents a promising and well-motivated contribution for incorporating higher-order chemical semantics into drug response prediction."* We are now preparing the camera-ready version addressing reviewer comments on methodological details, ablation studies, and statistical significance testing, and look forward to presenting in Rome this September.
 
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+This work represents an important step in my ongoing research at the intersection of AI, computational biology, and biophysics — exploring how multi-scale molecular representations can improve predictive modeling in precision medicine.

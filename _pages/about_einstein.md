@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Duc-Khiem Doan**, currently an M2 student in Biophysics at ENS Paris-Saclay. My academic journey began with a Bachelor’s degree in Biomedical Engineering at Hanoi University of Science and Technology (HUST), followed by an M1 at Institut Polytechnique de Paris.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie at the intersection of **Artificial Intelligence**, **Computational Biology**, and **Statistical Physics & Simulation**. I am particularly passionate about leveraging data-driven approaches to solve complex biological problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond academia, I am an avid sports enthusiast and traveler who finds inspiration in exploring new places and cultures.

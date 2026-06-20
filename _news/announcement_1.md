@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-04-22
 inline: true
 related_posts: false
 ---
 
-I am admitted to M2 PhysEnBio ENS Paris Saclay next year.
+I have been admitted to the **M2 PhysEnBio program at ENS Paris-Saclay** for the upcoming academic year! 
